@@ -10,6 +10,7 @@ Id int,Name varchar(50),
 Age int,Grade varchar(4)
 );
 
+desc student;
 --output--
 +-------+-------------+------+-----+---------+-------+
 | Field | Type        | Null | Key | Default | Extra |
