@@ -20,4 +20,3 @@ desc student;
 | Age   | int         | YES  |     | NULL    |       |
 | Grade | varchar(4)  | YES  |     | NULL    |       |
 +-------+-------------+------+-----+---------+-------+
-
