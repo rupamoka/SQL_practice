@@ -10,6 +10,16 @@ Id int,Name varchar(50),
 Age int,Grade varchar(4)
 );
 
+--output--
++-------+-------------+------+-----+---------+-------+
+| Field | Type        | Null | Key | Default | Extra |
++-------+-------------+------+-----+---------+-------+
+| Id    | int         | YES  |     | NULL    |       |
+| Name  | varchar(50) | YES  |     | NULL    |       |
+| Age   | int         | YES  |     | NULL    |       |
+| Grade | varchar(4)  | YES  |     | NULL    |       |
++-------+-------------+------+-----+---------+-------+
+
 --Insert values--
 insert into student values
 (1,'Ram',20,'B'),(2,'Sreeteja',20,'B'),(3,'Ravi',19,'C'),
